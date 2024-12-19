@@ -127,6 +127,18 @@ def Analysis_stock_data(stock_symbol):
                     "NASDAQ:MSFT",
                     "NSE:NIFTY",
                     "NSE:MRF"
+                    "NASDAQ:TSLA",
+                    "NASDAQ:AMZN",
+                    "NSE:BANKNIFTY",
+                    "NASDAQ:MSTR",
+                    "NASDAQ:META",
+                    "NASDAQ:GOOGL",
+                    "NASDAQ:COIN",
+                    "NSE:RELIANCE",
+                    "NSE:HDFCBANK",
+                    "NSE:ICICIBANK",
+                    "NSE:SBIN",
+                    "NSE:AXISBANK"
                 ],
                 "details": true,
                 "hotlist": true,
